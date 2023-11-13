@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4327750 */
+  src: url('iconfont.woff2?t=1699854106887') format('woff2'),
+       url('iconfont.woff?t=1699854106887') format('woff'),
+       url('iconfont.ttf?t=1699854106887') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-movie:before {
+  content: "\e70d";
+}
+
+.icon-linux:before {
+  content: "\e80b";
+}
+
+.icon-Icon_IPC:before {
+  content: "\e600";
+}
+
+.icon-cloud:before {
+  content: "\e670";
+}
+
+.icon-radio:before {
+  content: "\ebfe";
+}
+
+.icon-mysql:before {
+  content: "\e6b1";
+}
+
+.icon-xiazai:before {
+  content: "\e6cf";
+}
+
+.icon-Docker2:before {
+  content: "\e6e1";
+}
+
+.icon-Files:before {
+  content: "\e756";
+}
+
+.icon-router:before {
+  content: "\ec00";
+}
+
+.icon-zu16:before {
+  content: "\e60c";
+}
+
+.icon-rss:before {
+  content: "\ea03";
+}
+
